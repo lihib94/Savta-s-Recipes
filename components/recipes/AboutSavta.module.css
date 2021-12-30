@@ -1,0 +1,31 @@
+.about{
+background-color: rgba(255, 255, 255, 0.712);
+border-radius: 6px;
+box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+margin: 3rem auto;
+height: 250px;
+text-align: center;
+width:520px;
+padding: 5px;
+font-size: 20px;
+color: #f7a58e;
+}
+.background{
+    background-color: #f8b5a2;
+    /* background-color: #a2f8cd; */
+   height: 600px;
+}
+.backgroundHomePage{
+    background-color: #f8b5a2;
+    height: 490px;
+    margin-left: 30px;
+}
+.headline{
+    text-align: center;
+    color: #a2f8cd;
+    padding-top: 20px;
+    font-size: 30px;
+    /* text-decoration:overline;
+    text-decoration:underline; */
+    font-weight: bold;
+}

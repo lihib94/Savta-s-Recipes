@@ -1,0 +1,36 @@
+.detail {
+    text-align: center;
+    color:#a1847a;
+    padding-bottom: 40px;
+  }
+  
+  .image {
+    width:100%;
+    /* height: 20rem; */
+    overflow: hidden;
+
+    padding: 40px;
+  }
+  
+  .image img {
+    width: 40%;
+    object-fit: cover;
+    border-radius:13px;
+ 
+  }
+  .titles{
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+    color:#f38962;
+  }
+  .container{
+    background-color:#fcd0c0;
+    border-radius: 13px;
+    margin:20px;
+    padding: 10px;
+  }
+  .container h1{
+    font-size: 30px;
+    color: #f38962;
+  }

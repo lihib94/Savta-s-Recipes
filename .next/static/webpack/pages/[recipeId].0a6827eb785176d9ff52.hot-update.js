@@ -1,0 +1,27 @@
+webpackHotUpdate_N_E("pages/[recipeId]",{
+
+/***/ "./node_modules/next/dist/compiled/css-loader/cjs.js?!./node_modules/next/dist/compiled/postcss-loader/cjs.js?!./components/recipes/RecipeDetail.module.css":
+/*!****************************************************************************************************************************************************!*\
+  !*** (webpack)/css-loader/cjs.js??ref--5-oneOf-2-1!(webpack)/postcss-loader/cjs.js??ref--5-oneOf-2-2!./components/recipes/RecipeDetail.module.css ***!
+  \****************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../node_modules/next/dist/compiled/css-loader/api.js */ "./node_modules/next/dist/compiled/css-loader/api.js");
+var ___CSS_LOADER_EXPORT___ = ___CSS_LOADER_API_IMPORT___(true);
+// Module
+___CSS_LOADER_EXPORT___.push([module.i, ".RecipeDetail_detail__1I23r {\r\n    text-align: center;\r\n  }\r\n  \r\n  .RecipeDetail_image__QEFVi {\r\n    width:100%;\r\n    /* height: 20rem; */\r\n    overflow: hidden;\r\n\r\n    padding: 40px;\r\n  }\r\n  \r\n  .RecipeDetail_image__QEFVi img {\r\n    width: 40%;\r\n    -webkit-object-fit: cover;\r\n            object-fit: cover;\r\n    border-radius:13px;\r\n  }\r\n  .RecipeDetail_titles__2gYxj{\r\n    text-align: left;\r\n  }", "",{"version":3,"sources":["webpack://components/recipes/RecipeDetail.module.css"],"names":[],"mappings":"AAAA;IACI,kBAAkB;EACpB;;EAEA;IACE,UAAU;IACV,mBAAmB;IACnB,gBAAgB;;IAEhB,aAAa;EACf;;EAEA;IACE,UAAU;IACV,yBAAiB;YAAjB,iBAAiB;IACjB,kBAAkB;EACpB;EACA;IACE,gBAAgB;EAClB","sourcesContent":[".detail {\r\n    text-align: center;\r\n  }\r\n  \r\n  .image {\r\n    width:100%;\r\n    /* height: 20rem; */\r\n    overflow: hidden;\r\n\r\n    padding: 40px;\r\n  }\r\n  \r\n  .image img {\r\n    width: 40%;\r\n    object-fit: cover;\r\n    border-radius:13px;\r\n  }\r\n  .titles{\r\n    text-align: left;\r\n  }"],"sourceRoot":""}]);
+// Exports
+___CSS_LOADER_EXPORT___.locals = {
+	"detail": "RecipeDetail_detail__1I23r",
+	"image": "RecipeDetail_image__QEFVi",
+	"titles": "RecipeDetail_titles__2gYxj"
+};
+module.exports = ___CSS_LOADER_EXPORT___;
+
+
+/***/ })
+
+})
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vY29tcG9uZW50cy9yZWNpcGVzL1JlY2lwZURldGFpbC5tb2R1bGUuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7OztBQUFBO0FBQ0Esa0NBQWtDLG1CQUFPLENBQUMsb0hBQXlEO0FBQ25HO0FBQ0E7QUFDQSw4QkFBOEIsUUFBUyxnQ0FBZ0MsMkJBQTJCLE9BQU8sd0NBQXdDLG1CQUFtQix5QkFBeUIsNEJBQTRCLDBCQUEwQixPQUFPLDRDQUE0QyxtQkFBbUIsa0NBQWtDLGtDQUFrQywyQkFBMkIsT0FBTyxrQ0FBa0MseUJBQXlCLE9BQU8sT0FBTywyR0FBMkcsWUFBWSxPQUFPLEtBQUssVUFBVSxZQUFZLGNBQWMsV0FBVyxNQUFNLEtBQUssVUFBVSxZQUFZLGFBQWEsYUFBYSxNQUFNLEtBQUssWUFBWSxtQ0FBbUMsMkJBQTJCLE9BQU8sb0JBQW9CLG1CQUFtQix5QkFBeUIsNEJBQTRCLDBCQUEwQixPQUFPLHdCQUF3QixtQkFBbUIsMEJBQTBCLDJCQUEyQixPQUFPLGNBQWMseUJBQXlCLE9BQU8sbUJBQW1CO0FBQ3RsQztBQUNBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsImZpbGUiOiJzdGF0aWMvd2VicGFjay9wYWdlcy9bcmVjaXBlSWRdLjBhNjgyN2ViNzg1MTc2ZDlmZjUyLmhvdC11cGRhdGUuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBJbXBvcnRzXG52YXIgX19fQ1NTX0xPQURFUl9BUElfSU1QT1JUX19fID0gcmVxdWlyZShcIi4uLy4uL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvY29tcGlsZWQvY3NzLWxvYWRlci9hcGkuanNcIik7XG52YXIgX19fQ1NTX0xPQURFUl9FWFBPUlRfX18gPSBfX19DU1NfTE9BREVSX0FQSV9JTVBPUlRfX18odHJ1ZSk7XG4vLyBNb2R1bGVcbl9fX0NTU19MT0FERVJfRVhQT1JUX19fLnB1c2goW21vZHVsZS5pZCwgXCIuUmVjaXBlRGV0YWlsX2RldGFpbF9fMUkyM3Ige1xcclxcbiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7XFxyXFxuICB9XFxyXFxuICBcXHJcXG4gIC5SZWNpcGVEZXRhaWxfaW1hZ2VfX1FFRlZpIHtcXHJcXG4gICAgd2lkdGg6MTAwJTtcXHJcXG4gICAgLyogaGVpZ2h0OiAyMHJlbTsgKi9cXHJcXG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcXHJcXG5cXHJcXG4gICAgcGFkZGluZzogNDBweDtcXHJcXG4gIH1cXHJcXG4gIFxcclxcbiAgLlJlY2lwZURldGFpbF9pbWFnZV9fUUVGVmkgaW1nIHtcXHJcXG4gICAgd2lkdGg6IDQwJTtcXHJcXG4gICAgLXdlYmtpdC1vYmplY3QtZml0OiBjb3ZlcjtcXHJcXG4gICAgICAgICAgICBvYmplY3QtZml0OiBjb3ZlcjtcXHJcXG4gICAgYm9yZGVyLXJhZGl1czoxM3B4O1xcclxcbiAgfVxcclxcbiAgLlJlY2lwZURldGFpbF90aXRsZXNfXzJnWXhqe1xcclxcbiAgICB0ZXh0LWFsaWduOiBsZWZ0O1xcclxcbiAgfVwiLCBcIlwiLHtcInZlcnNpb25cIjozLFwic291cmNlc1wiOltcIndlYnBhY2s6Ly9jb21wb25lbnRzL3JlY2lwZXMvUmVjaXBlRGV0YWlsLm1vZHVsZS5jc3NcIl0sXCJuYW1lc1wiOltdLFwibWFwcGluZ3NcIjpcIkFBQUE7SUFDSSxrQkFBa0I7RUFDcEI7O0VBRUE7SUFDRSxVQUFVO0lBQ1YsbUJBQW1CO0lBQ25CLGdCQUFnQjs7SUFFaEIsYUFBYTtFQUNmOztFQUVBO0lBQ0UsVUFBVTtJQUNWLHlCQUFpQjtZQUFqQixpQkFBaUI7SUFDakIsa0JBQWtCO0VBQ3BCO0VBQ0E7SUFDRSxnQkFBZ0I7RUFDbEJcIixcInNvdXJjZXNDb250ZW50XCI6W1wiLmRldGFpbCB7XFxyXFxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcXHJcXG4gIH1cXHJcXG4gIFxcclxcbiAgLmltYWdlIHtcXHJcXG4gICAgd2lkdGg6MTAwJTtcXHJcXG4gICAgLyogaGVpZ2h0OiAyMHJlbTsgKi9cXHJcXG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcXHJcXG5cXHJcXG4gICAgcGFkZGluZzogNDBweDtcXHJcXG4gIH1cXHJcXG4gIFxcclxcbiAgLmltYWdlIGltZyB7XFxyXFxuICAgIHdpZHRoOiA0MCU7XFxyXFxuICAgIG9iamVjdC1maXQ6IGNvdmVyO1xcclxcbiAgICBib3JkZXItcmFkaXVzOjEzcHg7XFxyXFxuICB9XFxyXFxuICAudGl0bGVze1xcclxcbiAgICB0ZXh0LWFsaWduOiBsZWZ0O1xcclxcbiAgfVwiXSxcInNvdXJjZVJvb3RcIjpcIlwifV0pO1xuLy8gRXhwb3J0c1xuX19fQ1NTX0xPQURFUl9FWFBPUlRfX18ubG9jYWxzID0ge1xuXHRcImRldGFpbFwiOiBcIlJlY2lwZURldGFpbF9kZXRhaWxfXzFJMjNyXCIsXG5cdFwiaW1hZ2VcIjogXCJSZWNpcGVEZXRhaWxfaW1hZ2VfX1FFRlZpXCIsXG5cdFwidGl0bGVzXCI6IFwiUmVjaXBlRGV0YWlsX3RpdGxlc19fMmdZeGpcIlxufTtcbm1vZHVsZS5leHBvcnRzID0gX19fQ1NTX0xPQURFUl9FWFBPUlRfX187XG4iXSwic291cmNlUm9vdCI6IiJ9
